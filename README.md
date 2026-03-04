@@ -12,6 +12,10 @@
   A modern, real-time collaborative code editor where multiple developers can write code together — like Google Docs, but for code.
 </p>
 
+<p align="center">
+  <a href="https://collabdev-1.onrender.com/"><img src="https://img.shields.io/badge/🌐_Live_Demo-CollabDev-00A884?style=for-the-badge" /></a>
+</p>
+
 ---
 
 ## ✨ Features
