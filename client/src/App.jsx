@@ -5,7 +5,7 @@ import LandingPage from './components/LandingPage';
 import EditorView from './components/EditorView';
 import './index.css';
 
-const SOCKET_URL = 'http://localhost:3001';
+const SOCKET_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
 
 // Room history helpers
 function loadHistory() {
