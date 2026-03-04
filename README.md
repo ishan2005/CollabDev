@@ -53,7 +53,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/CollabDev.git
+git clone https://github.com/ishan2005/CollabDev.git
 cd CollabDev
 
 # Install server dependencies
